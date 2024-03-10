@@ -4,7 +4,7 @@ This is a COMP61332 Text Mining Coursework, focusing on Relation Extraction.
 
 ## Content
 
-This archive includes two folders and a short paper. Each folder includes the Jupyter Notebook, dataset and other resources. The Notebook includes all the code about model training, testing, evaluation and user interface, as well as the explanation and description of the code. *Please do not change the file structure, otherwise, the dataset invocation by the program will be affected.*
+This archive includes one folder and a short paper. The folder includes the Jupyter Notebook, dataset and other resources. The Notebook includes all the code about model training, testing, evaluation and user interface, as well as the explanation and description of the code. *Please do not change the file structure, otherwise, the dataset invocation by the program will be affected.*
 
 ## Dataset
 
